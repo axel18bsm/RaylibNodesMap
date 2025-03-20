@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="panimagewithraylib4cotes.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="56"/>
+        <CursorPos X="83" Y="90"/>
+        <UsageCount Value="26"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="3">
+      <Position>
+        <Filename Value="panimagewithraylib4cotes.lpr"/>
+        <Caret Line="2" Column="33"/>
+      </Position>
+      <Position>
+        <Filename Value="panimagewithraylib4cotes.lpr"/>
+        <Caret Line="105" Column="69" TopLine="85"/>
+      </Position>
+      <Position>
+        <Filename Value="panimagewithraylib4cotes.lpr"/>
+        <Caret Line="108" Column="23" TopLine="86"/>
+      </Position>
+      <Position>
+        <Filename Value="panimagewithraylib4cotes.lpr"/>
+        <Caret Line="109" Column="16" TopLine="86"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
